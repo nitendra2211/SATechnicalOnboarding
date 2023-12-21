@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mlsa5.webp";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "pen with book and clips and globe";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Github account",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Github contains all my projects and contributions.",
+    url: "https://github.com/nitendra2211",
   },
   {
-    title: "Web Development for Beginners",
+    title: " Personal portfolio for desktop",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Only desktop mode supported portfolio site",
+    url: "https://nitendra2211.github.io/Personal-Portfolio/",
   },
   {
-    title: "My Resume Site",
+    title: "Linkedin profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This profile contains all my achievements",
+    url: "https://www.linkedin.com/in/nitendra-singh-66018225b",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube channel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Content Creation",
+    url: "https://youtube.com/@upheavalacademy376",
   },
 ];
 
